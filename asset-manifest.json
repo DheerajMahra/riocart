@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/riocart/static/css/main.948f56cc.chunk.css",
+    "main.js": "/riocart/static/js/main.e95830ae.chunk.js",
+    "main.js.map": "/riocart/static/js/main.e95830ae.chunk.js.map",
+    "runtime-main.js": "/riocart/static/js/runtime-main.26a7e50e.js",
+    "runtime-main.js.map": "/riocart/static/js/runtime-main.26a7e50e.js.map",
+    "static/css/2.89f067aa.chunk.css": "/riocart/static/css/2.89f067aa.chunk.css",
+    "static/js/2.1bee0a3f.chunk.js": "/riocart/static/js/2.1bee0a3f.chunk.js",
+    "static/js/2.1bee0a3f.chunk.js.map": "/riocart/static/js/2.1bee0a3f.chunk.js.map",
+    "index.html": "/riocart/index.html",
+    "precache-manifest.37cde606d5524d4ec3a6032c128a967d.js": "/riocart/precache-manifest.37cde606d5524d4ec3a6032c128a967d.js",
+    "service-worker.js": "/riocart/service-worker.js",
+    "static/css/2.89f067aa.chunk.css.map": "/riocart/static/css/2.89f067aa.chunk.css.map",
+    "static/css/main.948f56cc.chunk.css.map": "/riocart/static/css/main.948f56cc.chunk.css.map",
+    "static/js/2.1bee0a3f.chunk.js.LICENSE.txt": "/riocart/static/js/2.1bee0a3f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.26a7e50e.js",
+    "static/css/2.89f067aa.chunk.css",
+    "static/js/2.1bee0a3f.chunk.js",
+    "static/css/main.948f56cc.chunk.css",
+    "static/js/main.e95830ae.chunk.js"
+  ]
+}
