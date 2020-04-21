@@ -118,7 +118,7 @@ export default class App extends React.Component{
 
     render(){
         return(
-            <Router>
+            <Router basename="/riocart">
                 <ScrollToTop />
                 <NavBar
                     totalItems={this.state.totalItems}
